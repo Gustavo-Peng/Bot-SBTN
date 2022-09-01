@@ -69,30 +69,11 @@
 ----
   
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/Gustavo-Peng/El-Bot-Otaku/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/Gustavo-Peng/El-Bot-Otaku/blob/master/config.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/Gustavo-Peng/Bot-SBTN/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/Gustavo-Peng/Bot-SBTN/blob/master/config.js)
   
 ----
 
-### ACTIVAR EN TERMUX  <img src="https://c.tenor.com/U3Xsaa-hkCQAAAAM/nero-fate.gif" height="32px">
-```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-
-> termux-setup-storage
-> pkg update && pkg upgrade -y -y
-> pkg install git -y
-> pkg install nodejs -y
-> pkg install ffmpeg -y
-> pkg install imagemagick -y
-> pkg install yarn
-> git clone https://github.com/Gustavo-Peng/El-Bot-Otaku
-> cd El-Bot-Otaku
-> yarn install 
-> npm install
-> npm install -g npm@8.16.0
-> ls
-> npm start
-```
 ----  
   
 ###  AJUSTE <img src="https://i.pinimg.com/originals/98/1b/e2/981be28d3ec7b85bfb797a5f9e6a01c2.png" height="32px">
@@ -100,27 +81,9 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - CAMBIAR NÚMERO DEL OWNER [`Aquí`](https://github.com/Gustavo-Peng/El-Bot-Otaku/blob/master/config.js)
 ----  
 
-### ACTIVAR EN CASO DE DETENERSE <img src="https://c.tenor.com/RS8ZRIXO7TYAAAAM/anime-castor.gif" height="30px">
-```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd 
-> cd El-Bot-Otaku
-> npm start
-```
-  
-----
-
-### OBTENER OTRO CODIGO QR  <img src="https://c.tenor.com/rLHIYMRAZUUAAAAM/gilgamesh-babylonia.gif" height="30px">
-```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd 
-> cd El-Bot-Otaku
-> rm -rf session.data.json
-> npm start
-```
 ----
 ### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
+
 <p>> Pagina Oficial:
 <a href="https://boxmineworld.com">https://boxmineworld.com</a>
 <p>> Dashboard:
@@ -158,11 +121,3 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
  
 [![Gustavo-Peng](https://github.com/Gustavo-Peng.png?size=100)](https://github.com/Gustavo-Peng) <img src="https://c.tenor.com/NnDJuK64VrUAAAAM/gawain-fate-extra-last-encore.gif" height="100px">
  
-### 🌟 AGRADECIMIENTOS
- 
-[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) <img src="https://c.tenor.com/c8SIN4sVRgsAAAAC/cat-kitten.gif" height="100px">
-
-### 🌟 CRONTRUBUIDORES 
- 
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) <img src="https://c.tenor.com/RTxlGBfMbbIAAAAM/gato-meme.gif" height="100px">
-  
